@@ -9,7 +9,7 @@ Add -
 
 Probleme rencontré -
 
-+ Bourse - Aucune information dans le manu "Bourse In game".
++ Bourse - Aucune information dans le menu "Bourse" In game.
 
 A ajouter -
 
