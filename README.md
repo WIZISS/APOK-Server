@@ -8,3 +8,9 @@ Add -
 + Ajout de la Bourse 5.0
 
 Probleme rencontré -
+
++ Bourse - Aucune information dans le manu "Bourse In game".
+
+A ajouter -
+
++ Assurance Vehicule 5.0
