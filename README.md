@@ -14,7 +14,7 @@ Probleme rencontré -
 
 + Bourse - Problème reglé.
 + Assurance - Aucun soucis rencontré.
-+ Mavericks - Introcam - Lancement serveur impossible.
++ Mavericks - Introcam/xphone - Lancement serveur impossible.
 
 A ajouter -
 
